@@ -1,2 +1,6 @@
 venv
 .env
+# Ignore log files
+*.log
+logs/
+networksecurity/exception/logs/
