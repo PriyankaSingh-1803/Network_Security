@@ -4,3 +4,6 @@ venv
 *.log
 logs/
 networksecurity/exception/logs/
+test_mongo.py
+__pycache__/
+*.pyc
