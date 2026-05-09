@@ -9,3 +9,9 @@ __pycache__/
 *.pyc
 venv/
 env/
+venv/
+Artifacts/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
